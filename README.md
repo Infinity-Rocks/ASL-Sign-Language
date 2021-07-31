@@ -1,7 +1,9 @@
 # ASL-Sign-Language
 
-## This is a basic repo for ASL Sign Language Detection.
+### This is a basic repo for ASL Sign Language Detection.
 
-## The "asl-sign.ipynb" file contains the code for detection.
+### The "asl-sign.ipynb" file contains the code for detection.
 
-## "asl_alphabet.h5" is the trained weight if you want to use the weights directly
+### "asl_alphabet.h5" is the trained weight if you want to use the weights directly
+
+### Kaggle Dataset: https://www.kaggle.com/grassknoted/asl-alphabet?rvi=1
